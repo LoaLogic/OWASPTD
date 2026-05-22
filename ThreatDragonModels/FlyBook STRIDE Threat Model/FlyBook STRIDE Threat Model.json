@@ -17,10 +17,20 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
         "cells": [],
-        "description": "Test"
+        "description": "Data flow diagram for the FlyBook Docker-based web application. The diagram shows the user/browser, the PHP 7.3 + Apache web container, the MySQL 8.0 database container, exposed local ports, internal container ports, and the main data flows used for STRIDE threat analysis."
+      },
+      {
+        "id": 3,
+        "title": "FlyBook Docker Architecture",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "test"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 4,
     "reviewer": "Exam reviewer / Course instructor",
     "threatTop": 0
   }
