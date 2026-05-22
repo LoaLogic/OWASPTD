@@ -1,0 +1,16 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "FlyBook STRIDE Threat Model",
+    "owner": "HPD",
+    "description": "FlyBook is a local Docker-based web application where users can search for flights and make bookings. The system consists of a PHP 7.3 and Apache web container and a MySQL 8.0 database container. The user accesses the web application through a browser on localhost:8000. The web container communicates with the database container to store and retrieve application data. The database is exposed locally on localhost:3307 and uses MySQL internally on port 3306.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Exam reviewer / Course instructor",
+    "threatTop": 0
+  }
+}
